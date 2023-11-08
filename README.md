@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deckarts
-- 👀 I’m interested in music, code, beer and coffee
-- 🌱 I’m currently learning to Deno all the neat little things
-- 💞️ I’m looking to collaborate on website performance optimization tactics
-- 📫 Find me @deckarts while Elon's flipping us the bird, or via cia's The Face Book
+- 👀 I’m interested in music, code, beer, coffee, skiing in cascades
+- 🌱 I’m a custom hacker for search return and inventor of rum runner pro
+- 💞️ I’m looking to collaborate on music and website performance tactics
+- 📫 Find me @deckarts, rarely preening Elon's flipping bird, or at shit-faced book
 
 <!---
 deckarts/deckarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
